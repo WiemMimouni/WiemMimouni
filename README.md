@@ -1,6 +1,10 @@
 # 🏄‍♂️ Wiem Mimouni
 
-I'm a passionate Full-Stack Developer from Tunisia, dedicated to creating innovative solutions through code. I enjoy building projects from scratch, starting with planning and design, and solving real-world problems. I take pride in developing robust applications that address specific needs and deliver tangible results. This repository showcases my portfolio, demonstrating my expertise in web development, mobile applications, and more. Let's embark on this coding journey together as we explore the world of software development!
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p>I'm a passionate Full-Stack Developer from Tunisia, dedicated to creating innovative solutions through code. I enjoy building projects from scratch, starting with planning and design, and solving real-world problems. I take pride in developing robust applications that address specific needs and deliver tangible results. This repository showcases my portfolio, demonstrating my expertise in web development, mobile applications, and more. Let's embark on this coding journey together as we explore the world of software development!</p>
+[![Linkedin: WiemMimouni](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/wiem-mimouni-109ba4241/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/WiemMimouni)
 
    <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
