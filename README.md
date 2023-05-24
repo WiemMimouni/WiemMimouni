@@ -73,7 +73,7 @@
 
 
 <h5 align="center">
-   <i>What i do</i>
+   What i do
   </h5>
 
 <br />
