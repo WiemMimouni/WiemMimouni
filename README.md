@@ -71,4 +71,14 @@
 
 <img  src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="800" >
 
- 
+  ### - What i do
+
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
