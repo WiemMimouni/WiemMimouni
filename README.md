@@ -71,8 +71,10 @@
 
 <img  src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="800" >
 
-  ### - What i do
 
+<h5 align="center">
+   <i>What i do</i>
+  </h5>
 
 <br />
 
