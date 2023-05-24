@@ -7,6 +7,26 @@
 
 <p>I'm a passionate Full-Stack Developer from Tunisia, dedicated to creating innovative solutions through code. I enjoy building projects from scratch, starting with planning and design, and solving real-world problems. I take pride in developing robust applications that address specific needs . This repository showcases my portfolio, demonstrating my expertise in web development, mobile applications, and more. Let's embark on this coding journey together as we explore the world of software development!</p>
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+
+- studying  AWS !
+```
+<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+	- 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
+	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
+	- 𝙰𝚍𝚍 𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛 𝚝𝚘 𝙳𝚎𝚋𝚒𝚊𝚗, 𝚄𝚋𝚞𝚗𝚝𝚞, 𝚊𝚗𝚍 𝚁𝚎𝚍 𝙷𝚊𝚝/𝙵𝚎𝚍𝚘𝚛𝚊
+	- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝙶𝚎𝚗𝚝𝚘𝚘 (𝚒𝚝 𝚒𝚜 𝚋𝚎𝚢𝚘𝚗𝚍 𝚖𝚢 𝚙𝚘𝚠𝚎𝚛 𝚗𝚘𝚠... 𝙸 𝚖𝚞𝚜𝚝 𝚝𝚛𝚊𝚒𝚗 𝚑𝚊𝚛𝚍...)
+
+
 
 <!-- [![Linkedin: WiemMimouni](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiemMimouni/)](https://www.linkedin.com/in/wiem-mimouni-109ba4241/)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
@@ -96,4 +116,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WiemMimouni&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiemMimouni&size_weight=0.5&count_weight=0.5)](https://github.com/WiemMimouni/github-readme-stats)
 
 
-![visitors](https://vbr.wocr.tk/badge?page_id=113175682&color=00cf00)
