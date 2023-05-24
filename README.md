@@ -50,10 +50,12 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <br />
+
+
 ---
 
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="230">
-<img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" >
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="230">
+<img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" >
 
 
 [website]: https://fkcodes.com
