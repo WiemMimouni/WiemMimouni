@@ -18,8 +18,6 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> -->
 <br>
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="230">
-<img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" >
 
 
 <br>
@@ -52,7 +50,10 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <br />
+---
 
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="230">
+<img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" >
 
 
 [website]: https://fkcodes.com
