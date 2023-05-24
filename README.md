@@ -72,9 +72,9 @@
 <img  src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="800" >
 
 
-<h5 align="center">
+<h6 align="center">
    What i do
-  </h5>
+  </h6>
 
 <br />
 
