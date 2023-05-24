@@ -54,8 +54,8 @@
 
 ---
 
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="230">
-<img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" >
+<!-- <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="230"> -->
+<img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800" >
 
 
 [website]: https://fkcodes.com
