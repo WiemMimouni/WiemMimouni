@@ -77,7 +77,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"  width="800"/>
    </p>
    
    
