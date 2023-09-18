@@ -31,6 +31,14 @@
 	- 🔄 Continuously refactor and optimize code for improved efficiency and maintainability.
 
 
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MimouniWiem#6733) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiem-mimouni-109ba4241/) 
+<!-- -[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wiemmimouni74) -->
+
+
 <!-- [![Linkedin: WiemMimouni](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiemMimouni/)](https://www.linkedin.com/in/wiem-mimouni-109ba4241/)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/WiemMimouni) -->
@@ -47,8 +55,6 @@
    </p> -->
 <br>
 
-
-<br>
 
 
 
