@@ -8,8 +8,8 @@
 <p>I'm a passionate Full-Stack Developer from Tunisia, dedicated to creating innovative solutions through code. I enjoy building projects from scratch, starting with planning and design, and solving real-world problems. I take pride in developing robust applications that address specific needs . This repository showcases my portfolio, demonstrating my expertise in web development, mobile applications, and more. Let's embark on this coding journey together as we explore the world of software development!</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 <h4>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜 </h4>
 
+<h4> - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜 </h4>
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 
 - 📫 How to reach me: wiemmimouni74@gmail.com
 
