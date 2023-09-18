@@ -80,15 +80,19 @@
 <img  src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="800" >
 
 
-<h5 align="center">
-   <i>What i do</i>
-  </h5>
+# 📊 GitHub Stats:
 
-<br />
 
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif"  width="800" height="350"/>
-   </p>
+
+
+
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=WiemMimouni&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WiemMimouni&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WiemMimouni&theme=discord&no-frame=true&no-bg=true&margin-w=4)
    
    
 <br />
