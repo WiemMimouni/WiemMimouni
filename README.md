@@ -86,7 +86,7 @@
 
 
 # 📊 GitHub Stats:
-®
+
 
 
 
