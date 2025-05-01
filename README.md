@@ -1,11 +1,11 @@
-<h2 align="center"> Hi, I'm Mimouni Wiem! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"> Hi, I'm Mimouni Wiem! </h2>
 
 
 <img align='left' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <br>
 <br>
 
-<p>I'm a passionate Full-Stack Developer from Tunisia, dedicated to creating innovative solutions through code. I enjoy building projects from scratch, starting with planning and design, and solving real-world problems. I take pride in developing robust applications that address specific needs . This repository showcases my portfolio, demonstrating my expertise in web development, mobile applications, and more. Let's embark on this coding journey together as we explore the world of software development!</p>
+<p>I'm a passionate Full-Stack Developer, dedicated to creating innovative solutions through code. I enjoy building projects from scratch, starting with planning and design, and solving real-world problems. I take pride in developing robust applications that address specific needs. This repository showcases my portfolio, demonstrating my expertise in web development, mobile applications, and more. Let's embark on this coding journey together as we explore the world of software development!</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
