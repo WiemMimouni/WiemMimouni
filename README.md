@@ -42,7 +42,7 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> -->
----                                                             
+                                                         
 
 
 
@@ -50,15 +50,15 @@
 
 
 
----
+
 
 <!-- <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="230"> -->
 <!-- <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800" > -->
 
 
 
----
+
 <!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 
 
-  -->
+
